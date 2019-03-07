@@ -1,0 +1,48 @@
+html
+{
+	background-image:url(背景.jpg);/*css的URL添加图片方式*/
+}
+
+.fristpart 
+{
+	background: rgba(168,186,200,0.5);/*rgba比rgb多一个透明度的元素取值是0到1*/
+	width: 82%;
+	left: 7%;
+	padding: 30px;/*设定内边距*/
+	position: relative;/*位置设定为相对*/
+	top: 80px;/*设定距离顶部距离*/
+}
+
+.p1
+{
+	text-indent: 2em;/*首行缩进4个字节*/
+	font-size: 1.5em;/*css设定字体大小的属性*/
+	font-family: FZCHSJW;/*css设定字体样式的属性*/
+	font-weight: 500;/*字体加粗*/
+	line-height: 40px;
+}
+
+.p
+{
+	font-size: 1.5em;/*css设定字体大小的属性*/
+	font-family: FZCHSJW;/*css设定字体样式的属性*/
+	font-weight: 500;/*字体加粗*/
+}
+
+.p3
+{
+	font-family: FZCHSJW;/*css设定字体样式的属性*/
+	font-weight: 500;/*字体加粗*/
+}
+
+.pp
+{
+	font-size: 1.5em;/*css设定字体大小的属性*/
+	font-family: FZCHSJW;/*css设定字体样式的属性*/
+	font-weight: 500;/*字体加粗*/
+}
+
+img
+{
+    max-width: 100%;/*设定图片的最大宽度*/
+}
