@@ -221,9 +221,9 @@ body
 .six3
 {
 	position: relative;
-	width: 15%;
+	width: 11%;
 	height: 80%;
-	left: 3%;
+	left: 5%;
 	top: -350px;
 }
 
@@ -393,5 +393,5 @@ body
 /*以下是所有a标签的伪类*/
 a:link {color: white}/*表示鼠标不在上面的时候是白色*/
 a:visited {color: white}/*表示访问过的时候仍程白色（纯粹喜欢白色）*/
-a:hover {color: #FF00FF}/*表示鼠标悬停时呈现紫色*/
-a:active {color: #0000FF}/*表示在鼠标点击与释放之间呈现紫色*/
+a:hover {color: blue}/*表示鼠标悬停时呈现紫色*/
+a:active {color: blue}/*表示在鼠标点击与释放之间呈现紫色*/
